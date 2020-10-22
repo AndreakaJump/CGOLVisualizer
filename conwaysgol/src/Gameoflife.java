@@ -2,6 +2,7 @@
 import processing.core.PApplet;
 
 public class Gameoflife extends PApplet {
+	//
 	int arrLength = 25;
 	int arrWidth = 25;
 	int[][] arr = new int[arrLength][arrWidth];
